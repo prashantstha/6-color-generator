@@ -26,7 +26,7 @@ function App() {
     <div className="App">
       <section className='container'>
         <div className="title">
-          <h1>Color generator</h1>
+          <h1>Color Generator</h1>
         </div>
         <form onSubmit={handleSubmit}>
           <input
